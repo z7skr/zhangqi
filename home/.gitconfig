@@ -1,0 +1,13 @@
+[user]
+	name = 霜晨月秀
+	email = ixixx@qq.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	last = log -1 HEAD
+	lg = log --graph --format='%C(bold blue)%h%C(reset) - %C(bold cyan)%ci%C(reset) %C(bold green)(%cr)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(bold magenta)%s%C(reset) %C(bold white) [%cn, %ce]%C(reset)' --all
+[oh-my-zsh]
+	hide-dirty = 1
+	hide-dirty = 0
